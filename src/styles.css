@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: rgb(244, 243, 243);
+	background: linear-gradient(
+		360deg,
+		rgba(244, 243, 243, 1) 90%,
+		rgba(232, 232, 232, 1) 100%
+	);
+}
